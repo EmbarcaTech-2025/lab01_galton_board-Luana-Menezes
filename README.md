@@ -1,17 +1,17 @@
 
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **Insira Seu Nome**
+Autor: Luana Menezes
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
 Instituição: EmbarcaTech - HBr
 
-Campinas, ___ de 2025
+Campinas, 12 de Maio de 2025
 
 ---
 
-<!-- INSIRA O CONTEÚDO DO SEU README AQUI! -->
+
 
 ---
 
